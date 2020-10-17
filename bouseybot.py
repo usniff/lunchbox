@@ -4,7 +4,7 @@ from discord.ext import commands
 import asyncio
 import random
 
-TOKEN = 'NzE4NzA3NDc1Mjg4OTQ4Nzk3.Xt6vGA.5y60AYAHxwDSpBYMplaT7aeGFV8'
+TOKEN = ''
 
 
 class MyClient(discord.Client):
